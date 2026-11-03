@@ -14,5 +14,5 @@ claude plugin install project@agent-harness
 
 | Skill | Description |
 |---|---|
-| `/project:tune` | Set up or improve how Claude works in a repo, including how it verifies changes in the running app, or decide where one convention, permission, or tool belongs. Plans changes and applies them once you approve. |
+| `/project:tune` | Set up or improve how Claude works in a repo, including how it verifies changes in the running app, or decide where one convention, permission, or tool belongs. Plans changes and applies them once you approve. Ask for the changes uncommitted to keep them out of git. |
 | `/project:audit` | Check how well a repo is set up for Claude, read-only, in a separate context. `tune` runs it first. |
