@@ -1,0 +1,8 @@
+{
+  "name": "component-conventions",
+  "description": "Conventions for writing agent components such as skills, layered on top of the agent's built-in authoring workflow.",
+  "author": {
+    "name": "byteorem",
+    "url": "https://github.com/byteorem"
+  }
+}

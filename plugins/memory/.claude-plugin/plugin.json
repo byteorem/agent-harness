@@ -1,0 +1,8 @@
+{
+  "name": "memory",
+  "description": "Gives agents a local memory store per project in place of Claude's auto memory, and reviews it to promote what lasts into CLAUDE.md.",
+  "author": {
+    "name": "byteorem",
+    "url": "https://github.com/byteorem"
+  }
+}

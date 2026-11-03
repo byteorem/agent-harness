@@ -1,0 +1,8 @@
+{
+  "name": "project",
+  "description": "Sets up a repo so an agent can work in it easily.",
+  "author": {
+    "name": "byteorem",
+    "url": "https://github.com/byteorem"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "agent-harness",
+  "description": "Plugins that set up and maintain the harness an agent works in.",
+  "owner": {
+    "name": "byteorem",
+    "url": "https://github.com/byteorem"
+  },
+  "plugins": [
+    { "name": "component-conventions", "source": "./plugins/component-conventions" },
+    { "name": "project", "source": "./plugins/project" },
+    { "name": "retro", "source": "./plugins/retro" },
+    { "name": "memory", "source": "./plugins/memory" }
+  ]
+}
